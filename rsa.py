@@ -1,6 +1,6 @@
 import sys
 import random
-# added comments
+# added comments and ammended the comments
 sys.setrecursionlimit(20000) # Allow 20000 levels of recursion
 
 def divisors (n, low, high):
